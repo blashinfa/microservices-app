@@ -1,0 +1,14 @@
+remove login 
+describe subscription
+steps on create company then subscription then token
+required data in subscription like limit tokens and company details based on corp_id 
+all company's parameters are required except the domain
+soft-delete on company and subscription
+
+tokens
+expired_at
+
+tokens details when create or get request and response 
+
+
+remove id and act the corp_id as a primary_key
